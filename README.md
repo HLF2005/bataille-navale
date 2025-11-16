@@ -1,4 +1,4 @@
-# Bataille navale — version simplifiée
+# Bataille navale 
 
 - **Indices 0-based**: `tirer(ligne, colonne)` utilise des indices à partir de 0.
 - **Boucle de dev** : vérif rapide dans `main_fonctionnalité.py` → conversion en tests `pytest`.
